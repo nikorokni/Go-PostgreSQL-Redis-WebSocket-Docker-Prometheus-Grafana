@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071827"/><stop offset=".55" stop-color="#102d42"/><stop offset="1" stop-color="#281d54"/></linearGradient><linearGradient id="line"><stop stop-color="#29d3c2"/><stop offset="1" stop-color="#8b7cff"/></linearGradient></defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/><g opacity=".14" stroke="#6de6dc"><path d="M0 75H1200M0 170H1200M0 265H1200M210 0V340M480 0V340M750 0V340M1020 0V340"/></g>
+  <g transform="translate(70 72)"><circle cx="100" cy="98" r="86" fill="#0c2435" stroke="url(#line)" stroke-width="5"/><path d="M36 125L76 95l38 25 38-78 55 72" fill="none" stroke="#ffbc3b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><g fill="#29d3c2"><circle cx="36" cy="125" r="8"/><circle cx="76" cy="95" r="8"/><circle cx="114" cy="120" r="8"/><circle cx="152" cy="42" r="8"/><circle cx="207" cy="114" r="8"/></g></g>
+  <text x="310" y="91" fill="#62e5db" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="6">REAL-TIME · CONCURRENT · OBSERVABLE</text>
+  <text x="310" y="155" fill="#fff" font-family="Arial,sans-serif" font-size="50" font-weight="800">STABLECOIN RISK ENGINE</text>
+  <text x="310" y="207" fill="#fff" font-family="Arial,sans-serif" font-size="50" font-weight="800">BUILT WITH GO</text>
+  <rect x="310" y="229" width="215" height="4" rx="2" fill="url(#line)"/>
+  <text x="310" y="276" fill="#c9d7e9" font-family="Arial,sans-serif" font-size="21">Depeg detection · Oracle consensus · Liquidity stress · Live alerts</text>
+</svg>
