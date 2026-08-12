@@ -1,0 +1,6 @@
+global:
+  scrape_interval: 10s
+scrape_configs:
+  - job_name: stablecoin-risk-engine
+    static_configs:
+      - targets: ["risk-engine:8080"]
