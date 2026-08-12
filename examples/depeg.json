@@ -1,0 +1,10 @@
+{
+  "symbol": "USDX",
+  "price": 0.963,
+  "liquidity_usd": 4200000,
+  "volume_24h_usd": 9800000,
+  "collateral_ratio": 1.08,
+  "oracle_age_seconds": 210,
+  "oracle_dispersion": 0.018,
+  "redemption_rate_24h": 0.31
+}
